@@ -17,6 +17,6 @@ PyCalculator is a simple calculator application built using the Python Tkinter l
 
 ## Dependencies
 
-- Python 3.x
-- Tkinter library (standard library in Python)
+- Python 3.11
+- Tkinter library
 
