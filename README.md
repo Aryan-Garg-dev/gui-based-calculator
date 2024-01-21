@@ -1,7 +1,3 @@
-Certainly! Here's a short README file for the provided PyCalculator code:
-
----
-
 # PyCalculator
 
 ## Overview
@@ -16,32 +12,11 @@ PyCalculator is a simple calculator application built using the Python Tkinter l
 - Clear button to reset the input and output labels.
 - User-friendly graphical interface.
 
-## How to Use
+![Screenshot 2024-01-21 184740](https://github.com/Aryan-Garg-dev/gui-based-calculator/assets/148696092/8db3fbe0-f741-4eae-a169-bdc118a1e163)
 
-1. Run the script (`pycalculator.py`).
-2. The calculator window will appear.
-3. Enter numerical values and use the provided buttons for various operations.
-4. The input and output labels display the entered expression and the result, respectively.
-5. Press the "=" button to evaluate the expression.
-6. Clear button (`C`) resets the input and output labels.
-
-## Files
-
-- `pycalculator.py`: The main Python script containing the calculator code.
-- `README.md`: This file, providing information about the calculator.
 
 ## Dependencies
 
 - Python 3.x
 - Tkinter library (standard library in Python)
 
-## Notes
-
-- Ensure Python is installed on your system to run the calculator.
-- This calculator provides basic functionality and may be extended for additional features.
-
-Feel free to use and modify the calculator script according to your needs!
-
----
-
-This README file gives users an overview of the PyCalculator, instructions on how to use it, and information about the files and dependencies. It also includes a note about the basic functionality and extensibility of the calculator.
